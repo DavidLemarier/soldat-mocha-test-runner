@@ -1,6 +1,6 @@
 {
   "name": "soldat-mocha-test-runner",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Run your Soldat package tests using Mocha",
   "main": "index.js",
   "soldatTestRunner": "./test/runner",
