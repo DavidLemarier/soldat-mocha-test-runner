@@ -4,18 +4,18 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-atomTestRunner	package.json	/^  "atomTestRunner": ".\/index",$/;"	f
+soldatTestRunner	package.json	/^  "soldatTestRunner": ".\/index",$/;"	f
 author	package.json	/^  "author": "Michelle Tilley <michelle@michelletilley.net>",$/;"	f
 chai	package.json	/^    "chai": "^3.5.0",$/;"	f
 dependencies	package.json	/^  "dependencies": {$/;"	f
-description	package.json	/^  "description": "Run your Atom package tests using Mocha",$/;"	f
+description	package.json	/^  "description": "Run your Soldat package tests using Mocha",$/;"	f
 keywords	package.json	/^  "keywords": [],$/;"	f
 license	package.json	/^  "license": "MIT",$/;"	f
 main	package.json	/^  "main": "index.js",$/;"	f
 mocha	package.json	/^    "mocha": "^2.4.5",$/;"	f
-name	package.json	/^  "name": "atom-mocha-test-runner",$/;"	f
+name	package.json	/^  "name": "soldat-mocha-test-runner",$/;"	f
 scripts	package.json	/^  "scripts": {$/;"	f
 sinon	package.json	/^    "sinon": "^1.17.3",$/;"	f
-test	package.json	/^    "test": "atom --test tests\/"$/;"	f
+test	package.json	/^    "test": "soldat --test tests\/"$/;"	f
 tmp	package.json	/^    "tmp": "0.0.28"$/;"	f
 version	package.json	/^  "version": "0.1.0",$/;"	f

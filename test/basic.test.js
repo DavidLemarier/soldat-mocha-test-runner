@@ -9,11 +9,11 @@ function deprecatedFunction () {
 
 describe('Basic Tests', () => {
   beforeEach(() => {
-    global.atom = global.buildAtomEnvironment()
+    global.soldat = global.buildSoldatEnvironment()
   })
 
   afterEach(() => {
-    global.atom.destroy()
+    global.soldat.destroy()
   })
 
   it('passes', () => {

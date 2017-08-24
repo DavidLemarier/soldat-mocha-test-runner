@@ -1,11 +1,11 @@
 {
-  "name": "atom-mocha-test-runner",
-  "version": "1.0.1",
-  "description": "Run your Atom package tests using Mocha",
+  "name": "soldat-mocha-test-runner",
+  "version": "0.0.1",
+  "description": "Run your Soldat package tests using Mocha",
   "main": "index.js",
-  "atomTestRunner": "./test/runner",
+  "soldatTestRunner": "./test/runner",
   "scripts": {
-    "test": "atom --test test/"
+    "test": "soldat --test test/"
   },
   "keywords": [],
   "author": "Michelle Tilley <michelle@michelletilley.net>",

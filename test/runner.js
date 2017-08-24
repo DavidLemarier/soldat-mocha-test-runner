@@ -3,6 +3,6 @@
 import {createRunner} from '../'
 
 module.exports = createRunner({
-  globalAtom: false,
-  htmlTitle: "atom-mocha-test-runner tests"
+  globalSoldat: false,
+  htmlTitle: "soldat-mocha-test-runner tests"
 })
